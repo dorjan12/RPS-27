@@ -1,1 +1,3 @@
-# RPS-27
+# Vaje RPS
+
+avtor : Dorjan Makarič
